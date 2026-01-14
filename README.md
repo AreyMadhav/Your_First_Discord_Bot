@@ -131,7 +131,7 @@ Copy the generated URL → open it in browser → invite bot to your server.
 ## Run the Bot
 
 ```bash
-python bot.py
+python discord_bot.py
 ```
 
 If everything is correct, you’ll see:
